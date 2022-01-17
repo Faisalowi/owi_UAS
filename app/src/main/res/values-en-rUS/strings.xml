@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">owi</string>
+    <string name="judul">Pedia Animals</string>
+    <string name="pilihgbr">(Select image to open gallery)</string>
+    <string name="biodata">BIODATA</string>
+    <string name="nama">Name</string>
+    <string name="alamat">Address</string>
+    <string name="hobi">hobby</string>
+    <string name="jurusan">Major</string>
+    <string name="mancing">Fishing</string>
+    <string name="ti">Technical Information</string>
+    <string name="kurakura">Tortoise Race</string>
+    <string name="anjig">Dog Race</string>
+    <string name="ular">Snake Race</string>
+    <string name="des_aldabra">Aldabra tortoises have a blackish brown carapace with a high dome. It has big and sturdy legs to support its very heavy body. This turtle has a very long neck used to reach branches and tree branches to a height of 1 meter more than the ground.</string>
+    <string name="des_asian">The Asian forest tortoise (Manouria emys), also known commonly as the Asian brown tortoise, is a species of tortoise in the family Testudinidae. This species is endemic to Southeast Asia. It is believed to be one of the most primitive living tortoises, based on molecular and morphological studies.</string>
+    <string name="des_indian">This turtle has a characteristic on the shell that forms a pattern like a star</string>
+    <string name="des_bulldog">A popular dog known for its chubby, muscular body, wrinkled face, and snub nose</string>
+    <string name="des_husky">A special breed of dog originally used to pull sleighs</string>
+    <string name="des_kintamani">Dog breeds native to the island of Bali</string>
+    <string name="des_samoyed">Dogs originating from Siberia that were originally used to guard livestock by the Samoyed . tribe</string>
+    <string name="piton">Python</string>
+    <string name="mamba">Mamba</string>
+    <string name="kobra">Cobra</string>
+    <string name="des_piton">is a general designation for all types of twisted snakes classified as the family Pythonidae.</string>
+    <string name="des_mamba">is the general designation for four species of deadly venomous snakes which are all classified as the genus Dendroaspis.</string>
+    <string name="des_kobra">is a venomous snake of several genera from the family Elapidae.</string>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">owi</string>
+    <string name="judul">Hewan Pedia</string>
+    <string name="pilihgbr">(Pilih gambar untuk membuka galeri)</string>
+
+    <string name="biodata">BIODATA</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="hobi">Hobi</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="mancing">Mancing</string>
+    <string name="ti">Teknik Informatika</string>
+
+    <string name="kurakura">Ras Kura Kura</string>
+    <string name="anjig">Ras Anjing</string>
+    <string name="ular">Ras Ular</string>
+
+
+    <string name="des_aldabra">Kura-kura Aldabra mempunyai karapas berwarna coklat kehitam-hitaman dengan dome yang tinggi. Memiliki kaki yang besar dan kekar untuk menopang tubuhnya yang sangat berat. Kura-kura ini mempunyai leher yang sangat panjang digunakan untuk meraih cabang dan ranting pohon sampai ketinggian 1 meter lebih dari tanah.</string>
+    <string name="des_asian">Asian kura-kura hutan ( Manouria emys ), juga dikenal umum sebagai kura-kura coklat Asia , adalah spesies dari kura-kura di keluarga Testudinidae . Spesies ini endemik untuk Asia Tenggara . Hal ini diyakini sebagai salah satu kura-kura hidup yang paling primitif, berdasarkan studi molekuler dan morfologis.</string>
+    <string name="des_indian">kura-kura ini memiliki ciri khas pada tempurungnya yang membentuk pola seperti bintang</string>
+
+    <string name="des_bulldog">Anjing populer yang dikenal dengan badan yang gemuk berotot, wajah seperti kain kusut, dan hidung yang pesek</string>
+    <string name="des_husky">Anjing jenis khusus yang awalnya digunakan untuk menarik kereta salju</string>
+    <string name="des_kintamani">Ras anjing asli pulau Bali</string>
+    <string name="des_samoyed">Anjing yang berasal dari Siberia yang awalnya biasa digunakan untuk menjaga ternak oleh suku Samoyed</string>
+
+    <string name="piton">Piton</string>
+    <string name="mamba">Mamaba</string>
+    <string name="kobra">Kobra</string>
+    <string name="des_piton">adalah sebutan umum untuk semua jenis ular pembelit yang diklasifikasikan sebagai familia Pythonidae.</string>
+    <string name="des_mamba">adalah sebutan umum untuk empat spesies ular berbisa mematikan yang semuanya diklasifikasikan sebagai genus Dendroaspis.</string>
+    <string name="des_kobra">adalah ular berbisa beberapa genus dari keluarga Elapidae.</string>
+
+</resources>
